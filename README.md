@@ -1,2 +1,1 @@
-# PrepCours-Henrry
-Este es un repositorio de modulo 2 de PrepCours de Henrry
+Prueba de como crear un repositorio y clonarlo desde githuba mi computadora
